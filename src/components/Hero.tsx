@@ -14,14 +14,6 @@ const Hero = () => {
       </div>
 
       <div className="relative z-10 container mx-auto px-4 text-center">
-        <motion.img
-          src={logo}
-          alt="Hayat Fitness Gym Logo"
-          className="mx-auto h-28 md:h-36 mb-8"
-          initial={{ opacity: 0, scale: 0.8 }}
-          animate={{ opacity: 1, scale: 1 }}
-          transition={{ duration: 0.8 }}
-        />
         <motion.h1
           className="font-heading text-4xl md:text-6xl lg:text-7xl uppercase tracking-tight mb-4 text-foreground"
           initial={{ opacity: 0, y: 30 }}
