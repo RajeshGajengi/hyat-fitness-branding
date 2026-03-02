@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 import { Button } from "@/components/ui/button";
 import heroImg from "@/assets/hero-gym.jpg";
-import logo from "@/assets/hayat-gym-logo.png";
+
 
 const Hero = () => {
   return (
