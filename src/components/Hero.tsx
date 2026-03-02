@@ -13,7 +13,7 @@ const Hero = () => {
         <div className="absolute inset-0 diagonal-stripes" />
       </div>
 
-      <div className="relative z-10 container mx-auto px-4 text-center">
+      <div className="relative z-10 container mx-auto px-4 text-center pt-20 md:pt-0">
         {/* 10 Year Anniversary Badge */}
         <motion.div
           initial={{ opacity: 0, scale: 0.5 }}
