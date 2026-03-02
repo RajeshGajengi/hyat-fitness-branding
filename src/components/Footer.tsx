@@ -47,7 +47,7 @@ const Footer = () => {
 
       <div className="border-t border-border py-4">
         <p className="text-center text-muted-foreground text-xs">
-          © 2024 Hayat Fitness Gym | Est. 2016 | Kondhwa, Pune
+          © 2026 Hayat Fitness Gym | Est. 2016 | Celebrating 10 Years | Kondhwa, Pune
         </p>
       </div>
     </footer>
